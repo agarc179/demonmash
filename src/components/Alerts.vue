@@ -27,16 +27,18 @@ export default {
    list: null
  }
 
- new Vue.http.get(link).then(function(response){
+new Vue ({
+  el: '#app',
+  data: data
+
+ Vue.http.get(link).then(function(response){
    data.list =response.data;
 }, function(error){
   console.log(error.statusText);
 });
-
-new Vue ({
-  el: '#app',
-  data: data
 });
+
+
 </script>
 <style scoped>
   .waiting {
