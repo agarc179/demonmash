@@ -23,7 +23,7 @@
 <!--NEWS CARD-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">FAKE News</h2>
+      <h2 class="mdl-card__title-text">Halloween News</h2>
     </div>
     
     <div class="mdl-card__supporting-text">
@@ -31,10 +31,13 @@
     </div>
     <div class="mdl-card__actions mdl-card--border">
       <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Lockness sighting in Lake Michigan.
+        Lockness sink boats in Lake Michigan
       </a>
       <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Vampires run rampant on State Street.
+        Vampires take over Sears Tower
+      </a>
+      <a class = "mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+        Frankenstien frightens Chicagoans
       </a>
     </div>
   </div>
@@ -50,32 +53,31 @@
     </div>
     <div class="mdl-card__actions mdl-card--border">
       <a href="https://www.gofundme.com/demonmash" class="button">  DONATION$ </a>
-      
+
     </div>
   </div>
   <br />
-  <!--WEATHER CARD-->
+  <!--The Monster Mash-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">Weather</h2>
+      <h2 class="mdl-card__title-text">The Monster Mash</h2>
     </div>
     <div class="mdl-card__supporting-text">
-      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Link?
-      </a>
+       <body>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SOFCQ2bfmHw" frameborder="0" allowfullscreen></iframe>
+ </body>
+
     </div>
     <div class="mdl-card__actions mdl-card--border">
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
-        Button  
-      </button> <br />
+      <br />
       
     </div>
   </div>
 
-  <!--CRIME CARD-->
+  <!--Safety Tips-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">News</h2>
+      <h2 class="mdl-card__title-text">Safety Tips</h2>
     </div>
     
     <div class="mdl-card__supporting-text">
