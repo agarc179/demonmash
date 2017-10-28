@@ -31,7 +31,7 @@ new Vue ({
   el: '#app',
   data: data
 
- Vue.http.get(link).then(function(response){
+ http.get(link).then(function(response){
    data.list =response.data;
 }, function(error){
   console.log(error.statusText);
