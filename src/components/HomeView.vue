@@ -23,7 +23,7 @@
 <!--NEWS CARD-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">News</h2>
+      <h2 class="mdl-card__title-text">FAKE News</h2>
     </div>
     
     <div class="mdl-card__supporting-text">
@@ -31,7 +31,10 @@
     </div>
     <div class="mdl-card__actions mdl-card--border">
       <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Links to news go here.
+        Lockness sighting in Lake Michigan.
+      </a>
+      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+        Vampires run rampant on State Street.
       </a>
     </div>
   </div>
@@ -137,6 +140,6 @@
     margin: auto;
     width: 645px;
     height: 176px;
-    background: url(http://www.greencurtainevents.com/newsite/wp-content/uploads/2014/11/chicago-skyline-2.jpg) center / cover;
+    background: url(http://www.salafi-islam.com/wp-content/uploads/2016/12/halloween.jpg) center / cover;
   }
 </style>
