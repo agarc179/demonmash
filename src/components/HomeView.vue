@@ -31,10 +31,13 @@
     </div>
     <div class="mdl-card__actions mdl-card--border">
       <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Lockness sighting in Lake Michigan.
+        Lockness sink boats in Lake Michigan
       </a>
       <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Vampires run rampant on State Street.
+        Vampires take over Sears Tower
+      </a>
+      <a class = "mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+        Frankenstien frightens Chicagoans
       </a>
     </div>
   </div>
@@ -50,24 +53,20 @@
     </div>
     <div class="mdl-card__actions mdl-card--border">
       <a href="https://www.gofundme.com/demonmash" class="button">  DONATION$ </a>
-      
+
     </div>
   </div>
   <br />
   <!--WEATHER CARD-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">Weather</h2>
+      <h2 class="mdl-card__title-text">The Monster Mash</h2>
     </div>
     <div class="mdl-card__supporting-text">
-      <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        Link?
-      </a>
+       <a href= "https://www.youtube.com/watch?v=SOFCQ2bfmHw" class="button">  MONSTER MASH </a>
     </div>
     <div class="mdl-card__actions mdl-card--border">
-      <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
-        Button  
-      </button> <br />
+      <br />
       
     </div>
   </div>
