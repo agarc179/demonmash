@@ -23,7 +23,7 @@
 <!--NEWS CARD-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">FAKE News</h2>
+      <h2 class="mdl-card__title-text">Halloween News</h2>
     </div>
     
     <div class="mdl-card__supporting-text">
@@ -74,10 +74,10 @@
     </div>
   </div>
 
-  <!--CRIME CARD-->
+  <!--Safety Tips-->
   <div class="demo-card-square mdl-card mdl-shadow--2dp">
     <div class="mdl-card__title mdl-card--expand">
-      <h2 class="mdl-card__title-text">News</h2>
+      <h2 class="mdl-card__title-text">Safety Tips</h2>
     </div>
     
     <div class="mdl-card__supporting-text">
