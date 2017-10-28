@@ -27,7 +27,7 @@ export default {
    list: null
  }
 
- Vue.http.get(link).then(function(response){
+ new Vue.http.get(link).then(function(response){
    data.list =response.data;
 }, function(error){
   console.log(error.statusText);
