@@ -22,10 +22,10 @@ export default {
 </script>
 
 <script>
- var link = 'https://data.cityofchicago.org/resource/crimes.json';
- var data= {
+ var link = 'https://data.cityofchicago.org/resource/crimes.json'
+ var data = {
    list: null
- };
+ }
 
  Vue.http.get(link).then(function(response){
    data.list =response.data;
